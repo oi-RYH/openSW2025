@@ -12,5 +12,5 @@ void foofoo(void)
 
 void foofoofoo(void)
 {
-    pritnf("This is foofoofoo.\n");
+    printf("This is foofoofoo.\n");
 }
